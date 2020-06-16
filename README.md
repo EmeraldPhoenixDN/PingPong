@@ -2,10 +2,9 @@ Pong
 
 Pong clone for Linux created with C++ and SDL 2.0.
 
-
 The code uses the principles of OOP: encapsulation, inheritance, abstraction, and polymorphism. 
 Also it uses some STL(e.g., pointers in most files).
-
+Game has sound effects: paddle hit, wall hit and score update.
 This software uses some libraries such as SDL 2, SDL Mixer, SDL TFT 2, cmath, random etc.
 You will need:
 
