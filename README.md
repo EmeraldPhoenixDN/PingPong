@@ -17,7 +17,7 @@ Install all dependencies on Ubuntu 16.04 and above:
 
 To get source:
 
-git clone https://github.com/chaficnajjar/pong.git
+git clone https://github.com/EmeraldPhoenixDN/PingPong
 cd pong
 make
 
@@ -30,4 +30,5 @@ To play the game with joystick support:
 ./pong joystick
 
  Every program file is commented.
+ Tested with Ubuntu 18.04.
 
